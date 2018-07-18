@@ -1,0 +1,12 @@
+.header {
+    padding: 21px 0 23px;
+    background: #4e86e4;
+    background: -moz-radial-gradient(center, ellipse cover, #4e86e4 1%, #2f68c8 100%);
+    background: -webkit-radial-gradient(center, ellipse cover, #4e86e4 1%,#2f68c8 100%);
+    background: radial-gradient(ellipse at center, #4e86e4 1%,#2f68c8 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4e86e4', endColorstr='#2f68c8',GradientType=1 );
+}
+
+.logo {
+    display: inline-block;
+}

@@ -1,0 +1,25 @@
+.menu-item {
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.menu-item:hover {
+    transition: 0.2s all ease;
+    opacity: 1;
+}
+
+.menu-item + .menu-item {
+    margin-left: 50px;
+}
+
+.menu-link {
+    color: #ffffff;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.menu-item i {
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
